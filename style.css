@@ -1,0 +1,41 @@
+a{
+    text-decoration: none;
+    margin-top: 8px;
+
+}
+i{
+    padding-left: 78%;
+    margin-top: 8px;
+   
+}
+nav{
+    background-color:white;
+    height: 40px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.navy{
+   display: flex;
+}
+h3{
+    font-family:fantasy;
+    margin-top: 8px ; important :
+    
+   
+}
+body{
+    background-color:black;
+
+}
+input,label{
+    color:tomato ;
+}
+
+h1 ,pre{
+    color: tomato;
+    font-family:fantasy;
+}
+pre{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
